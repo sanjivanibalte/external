@@ -1,0 +1,207 @@
+body{
+    font-family: Comic Sans, Comic Sans MS, cursive;	
+}
+
+#logo{
+    font-family: 'Yatra One', cursive;
+    font-size: 26px;
+    letter-spacing:  1.5px;
+    text-shadow: 3px 3px 3px orangered;
+    color: #000;
+}
+
+#home{
+    background-image: url("images/Free-Stars-Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#home-page{
+    width: 850px;
+    background-color: #FFF556;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 0.9;
+}
+
+h1{
+    text-align: center;
+    margin: 30px auto;    
+}
+
+#navigation{
+    background-color: sandybrown;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 0px auto;
+    width: 760px;
+    text-transform: uppercase;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;  
+    box-shadow: 0 0 10px #777777;
+}
+
+#navigation li{
+    display: inline;
+    padding: 20px 10px;
+}
+
+#navigation a{
+    text-decoration: none; 
+}
+
+#purple:link{
+    color: darkviolet;
+}
+
+#purple:visited{
+    color: darkviolet;
+}
+
+#pink:link{
+    color: deeppink;
+}
+
+#pink:visited{
+    color: deeppink;
+}
+
+#blue:link{
+    color: blue;
+}
+
+#blue:visited{
+    color: blue;
+}
+
+#green:link{
+    color: green;
+}
+
+#green:visited{
+    color: green;
+}
+
+#navigation a:hover{
+    color: #fff;
+}
+
+#shop{
+    text-align: center;
+    margin: 30px auto;
+}
+
+#toy-shop{
+    width: 800px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.sub-heading{
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+#para{
+    text-align: center;
+    border: 4px double orangered;
+    margin: 26px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+#girls-toys{
+    background-image: url("images/pink-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#girls-page{
+    width: 850px;
+    background-color: #F08982;
+    margin: 20px auto;
+    padding: 10px;
+    opacity: 0.9;
+    border-radius: 15px;
+}
+
+#toy-images{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.toy{
+    display: inline-block;
+    text-align: center;
+}
+
+
+figcaption{
+    background-color: #A981B6;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+#boys-toys{
+    background-image: url("images/blue-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#boys-page{
+    width: 850px;
+    background-color: #A9EBFB;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 0.8;
+}
+
+
+#contact{
+    background-image: url("images/green-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.wordspace{
+    word-spacing: 0.5em;
+}
+
+.cont{
+    padding: 20px;
+}
+
+#contact-page{
+    width: 850px;
+    background-color:#AADF6B;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 0.8;
+}
+
+footer{
+    width: 810px;
+    text-align: center;
+    margin: 20px auto;
+    color: #000;
+    border: 2px solid darkslategrey;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #777777;
+}
